@@ -207,8 +207,8 @@ jupyter
 
 Hi! I'm a Computer Science student currently doing an **ML Internship** where I'm building hands-on machine learning projects to strengthen my skills.
 
-- 🔗 **LinkedIn:** [https://www.linkedin.com/in/ankit-kumar-singh-862031347/]
-- 🐙 **GitHub:** [https://github.com/Ankit5641]
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/ankit-kumar-singh-862031347/
+- 🐙 **GitHub:** https://github.com/Ankit5641
 - 📧 **Email:** ankitrajput5641@email.com
 
 ---
